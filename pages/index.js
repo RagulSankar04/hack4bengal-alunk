@@ -124,7 +124,7 @@ export default function Home() {
         </div>
       </div>
       <div className="footer bg-green-300 text-center font-bold">
-        TEAM AKUNK
+        TEAM ALUNK
       </div>
     </div>
   );
